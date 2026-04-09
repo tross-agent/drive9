@@ -4,7 +4,6 @@ CLAUDE.md
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -43,3 +42,7 @@ __pycache__/
 
 # Local review artifacts
 second_opinion*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
